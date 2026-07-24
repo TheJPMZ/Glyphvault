@@ -3,11 +3,11 @@
 
   # Glyphvault
 
-    Public logo store. Single source of truth for project logos, queried by **SEK Hub** and **Nebula** via CDN + manifest.
+   
 
 </div>
 
-
+ Public logo store. Single source of truth for project logos, queried by **SEK Hub** and **Nebula** via CDN + manifest.
 
 ## Structure
 
