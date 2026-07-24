@@ -1,6 +1,6 @@
 {
   "cdn_base": "https://cdn.jsdelivr.net/gh/TheJPMZ/Glyphvault@main/",
-  "generated_at": "2026-07-24T01:30:23.277Z",
+  "generated_at": "2026-07-24T01:40:21.346Z",
   "logos": [
     {
       "id": "budget-thing",
@@ -157,10 +157,10 @@
       "tags": []
     },
     {
-      "id": "time-step",
-      "name": "time-step",
-      "slug": "time-step",
-      "file": "logos/time-step.svg",
+      "id": "timestep",
+      "name": "timestep",
+      "slug": "timestep",
+      "file": "logos/timestep.svg",
       "tags": []
     },
     {
