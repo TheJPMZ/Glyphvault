@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" font-family="'Helvetica Neue',Arial,sans-serif">
+  <defs>
+    <radialGradient id="hub" cx="42%" cy="36%" r="75%">
+      <stop offset="0%" stop-color="#222C44"/>
+      <stop offset="100%" stop-color="#0e1116"/>
+    </radialGradient>
+  </defs>
+  <g transform="translate(100,100)">
+    <!-- track -->
+    <circle r="84" fill="none" stroke="#1E263B" stroke-width="16"/>
+    <!-- currency arcs -->
+    <g fill="none" stroke-width="16" stroke-linecap="round">
+      <circle r="84" stroke="#00D4CC" stroke-dasharray="232 296" transform="rotate(-86)"/>
+      <circle r="84" stroke="#8B7FC7" stroke-dasharray="120 408" transform="rotate(74)"/>
+      <circle r="84" stroke="#E6007E" stroke-dasharray="56 472" transform="rotate(176)"/>
+    </g>
+    <!-- dial ticks -->
+    <g stroke="#2A3550" stroke-width="3">
+      <line x1="0" y1="-58" x2="0" y2="-50"/>
+      <line x1="0" y1="58" x2="0" y2="50"/>
+      <line x1="-58" y1="0" x2="-50" y2="0"/>
+      <line x1="58" y1="0" x2="50" y2="0"/>
+    </g>
+    <!-- hub -->
+    <circle r="52" fill="url(#hub)" stroke="#EDEFF3" stroke-width="3"/>
+    <text x="0" y="16" fill="#EDEFF3" font-size="48" font-weight="700" text-anchor="middle">¥</text>
+  </g>
+</svg>
