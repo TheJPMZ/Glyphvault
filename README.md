@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="icons/glyphvault.png" alt="glyphvault" width="120" />
+  <img src="logos/glyphvault.png" alt="glyphvault" width="120" />
 
   # Glyphvault
 
-    Public logo store. Single source of truth for project logos, queried by **SEK Hub** and **Nebula** via CDN + manifest.
+   
 
 </div>
 
-
+ Public logo store. Single source of truth for project logos, queried by **SEK Hub** and **Nebula** via CDN + manifest.
 
 ## Structure
 
