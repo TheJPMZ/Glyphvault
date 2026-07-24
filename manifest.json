@@ -1,6 +1,6 @@
 {
   "cdn_base": "https://cdn.jsdelivr.net/gh/TheJPMZ/Glyphvault@main/",
-  "generated_at": "2026-07-24T01:55:46.779Z",
+  "generated_at": "2026-07-24T02:01:05.514Z",
   "logos": [
     {
       "id": "budget-thing",
@@ -77,6 +77,13 @@
       "name": "music-master",
       "slug": "music-master",
       "file": "logos/music-master.svg",
+      "tags": []
+    },
+    {
+      "id": "nebula",
+      "name": "nebula",
+      "slug": "nebula",
+      "file": "logos/nebula.png",
       "tags": []
     },
     {
