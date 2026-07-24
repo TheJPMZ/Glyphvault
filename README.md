@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icons/glyphvault.png" alt="glyphvault" width="120" />
+  <img src="logos/glyphvault.png" alt="glyphvault" width="120" />
 
   # Glyphvault
 
