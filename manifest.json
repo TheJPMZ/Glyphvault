@@ -1,5 +1,125 @@
 {
   "cdn_base": "https://cdn.jsdelivr.net/gh/TheJPMZ/Glyphvault@main/",
-  "generated_at": "2026-07-24T00:48:46.040Z",
-  "logos": []
+  "generated_at": "2026-07-24T01:17:53.869Z",
+  "logos": [
+    {
+      "id": "coursepilot",
+      "name": "coursepilot",
+      "slug": "coursepilot",
+      "file": "logos/coursepilot.png",
+      "tags": []
+    },
+    {
+      "id": "cvanty",
+      "name": "cvanty",
+      "slug": "cvanty",
+      "file": "logos/cvanty.svg",
+      "tags": []
+    },
+    {
+      "id": "fitbox",
+      "name": "fitbox",
+      "slug": "fitbox",
+      "file": "logos/fitbox.png",
+      "tags": []
+    },
+    {
+      "id": "glyphvault",
+      "name": "glyphvault",
+      "slug": "glyphvault",
+      "file": "logos/glyphvault.png",
+      "tags": []
+    },
+    {
+      "id": "kamicards",
+      "name": "kamicards",
+      "slug": "kamicards",
+      "file": "logos/kamicards.png",
+      "tags": []
+    },
+    {
+      "id": "metodo-claude",
+      "name": "metodo-claude",
+      "slug": "metodo-claude",
+      "file": "logos/metodo-claude.svg",
+      "tags": []
+    },
+    {
+      "id": "music-master",
+      "name": "music-master",
+      "slug": "music-master",
+      "file": "logos/music-master.svg",
+      "tags": []
+    },
+    {
+      "id": "scribe",
+      "name": "scribe",
+      "slug": "scribe",
+      "file": "logos/scribe.svg",
+      "tags": []
+    },
+    {
+      "id": "sek-auth-sdk",
+      "name": "sek-auth-sdk",
+      "slug": "sek-auth-sdk",
+      "file": "logos/sek-auth-sdk.png",
+      "tags": []
+    },
+    {
+      "id": "sek-auth",
+      "name": "sek-auth",
+      "slug": "sek-auth",
+      "file": "logos/sek-auth.png",
+      "tags": []
+    },
+    {
+      "id": "sek-free-1",
+      "name": "sek-free-1",
+      "slug": "sek-free-1",
+      "file": "logos/sek-free-1.png",
+      "tags": []
+    },
+    {
+      "id": "sek-free-2",
+      "name": "sek-free-2",
+      "slug": "sek-free-2",
+      "file": "logos/sek-free-2.png",
+      "tags": []
+    },
+    {
+      "id": "sek-free-3",
+      "name": "sek-free-3",
+      "slug": "sek-free-3",
+      "file": "logos/sek-free-3.png",
+      "tags": []
+    },
+    {
+      "id": "sek-hub",
+      "name": "sek-hub",
+      "slug": "sek-hub",
+      "file": "logos/sek-hub.png",
+      "tags": []
+    },
+    {
+      "id": "sek",
+      "name": "sek",
+      "slug": "sek",
+      "file": "logos/sek.png",
+      "tags": []
+    },
+    {
+      "id": "the-anvil",
+      "name": "the-anvil",
+      "slug": "the-anvil",
+      "file": "logos/the-anvil.svg",
+      "tags": []
+    },
+    {
+      "id": "treasury",
+      "name": "treasury",
+      "slug": "treasury",
+      "file": "logos/treasury.svg",
+      "tags": []
+    }
+  ]
 }

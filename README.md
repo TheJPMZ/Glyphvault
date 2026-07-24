@@ -1,6 +1,13 @@
-# Glyphvault
+<div align="center">
+  <img src="icons/glyphvault.png" alt="glyphvault" width="120" />
 
-Public logo store. Single source of truth for project logos, queried by **SEK Hub** and **Nebula** via CDN + manifest.
+  # Glyphvault
+
+    Public logo store. Single source of truth for project logos, queried by **SEK Hub** and **Nebula** via CDN + manifest.
+
+</div>
+
+
 
 ## Structure
 
@@ -45,6 +52,19 @@ Direct single-logo fetch (skip manifest) when you already know the filename:
 ```
 https://cdn.jsdelivr.net/gh/TheJPMZ/Glyphvault@main/logos/acme-corp.svg
 ```
+
+### List all logos without a manifest
+
+jsdelivr also exposes a raw file-listing API — useful if you just need
+filenames/paths and don't want manifest metadata (name/slug/tags):
+
+```
+https://data.jsdelivr.com/v1/package/gh/TheJPMZ/Glyphvault@main/flat
+```
+
+Returns every file in the repo with path + size; filter for entries under
+`logos/`. Prefer `manifest.json` when you need names/slugs/tags, not just
+filenames.
 
 ### Cache-busting
 
