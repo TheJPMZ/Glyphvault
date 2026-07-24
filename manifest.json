@@ -1,6 +1,6 @@
 {
   "cdn_base": "https://cdn.jsdelivr.net/gh/TheJPMZ/Glyphvault@main/",
-  "generated_at": "2026-07-24T01:40:21.346Z",
+  "generated_at": "2026-07-24T01:49:55.204Z",
   "logos": [
     {
       "id": "budget-thing",
@@ -42,6 +42,13 @@
       "name": "iter-nostrum",
       "slug": "iter-nostrum",
       "file": "logos/iter-nostrum.png",
+      "tags": []
+    },
+    {
+      "id": "jp",
+      "name": "jp",
+      "slug": "jp",
+      "file": "logos/jp.png",
       "tags": []
     },
     {
