@@ -1,7 +1,14 @@
 {
   "cdn_base": "https://cdn.jsdelivr.net/gh/TheJPMZ/Glyphvault@main/",
-  "generated_at": "2026-07-24T01:17:53.869Z",
+  "generated_at": "2026-07-24T01:30:22.311Z",
   "logos": [
+    {
+      "id": "budget-thing",
+      "name": "budget-thing",
+      "slug": "budget-thing",
+      "file": "logos/budget-thing.svg",
+      "tags": []
+    },
     {
       "id": "coursepilot",
       "name": "coursepilot",
@@ -31,10 +38,24 @@
       "tags": []
     },
     {
+      "id": "iter-nostrum",
+      "name": "iter-nostrum",
+      "slug": "iter-nostrum",
+      "file": "logos/iter-nostrum.png",
+      "tags": []
+    },
+    {
       "id": "kamicards",
       "name": "kamicards",
       "slug": "kamicards",
       "file": "logos/kamicards.png",
+      "tags": []
+    },
+    {
+      "id": "map-thing",
+      "name": "map-thing",
+      "slug": "map-thing",
+      "file": "logos/map-thing.svg",
       "tags": []
     },
     {
@@ -49,6 +70,13 @@
       "name": "music-master",
       "slug": "music-master",
       "file": "logos/music-master.svg",
+      "tags": []
+    },
+    {
+      "id": "odin",
+      "name": "odin",
+      "slug": "odin",
+      "file": "logos/odin.png",
       "tags": []
     },
     {
@@ -108,6 +136,20 @@
       "tags": []
     },
     {
+      "id": "sociably",
+      "name": "sociably",
+      "slug": "sociably",
+      "file": "logos/sociably.png",
+      "tags": []
+    },
+    {
+      "id": "strawberry-frog",
+      "name": "strawberry-frog",
+      "slug": "strawberry-frog",
+      "file": "logos/strawberry-frog.png",
+      "tags": []
+    },
+    {
       "id": "the-anvil",
       "name": "the-anvil",
       "slug": "the-anvil",
@@ -115,10 +157,24 @@
       "tags": []
     },
     {
+      "id": "time-step",
+      "name": "time-step",
+      "slug": "time-step",
+      "file": "logos/time-step.svg",
+      "tags": []
+    },
+    {
       "id": "treasury",
       "name": "treasury",
       "slug": "treasury",
       "file": "logos/treasury.svg",
+      "tags": []
+    },
+    {
+      "id": "tutorplus",
+      "name": "tutorplus",
+      "slug": "tutorplus",
+      "file": "logos/tutorplus.png",
       "tags": []
     }
   ]
