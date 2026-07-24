@@ -1,6 +1,6 @@
 {
   "cdn_base": "https://cdn.jsdelivr.net/gh/TheJPMZ/Glyphvault@main/",
-  "generated_at": "2026-07-24T01:49:55.204Z",
+  "generated_at": "2026-07-24T01:55:46.779Z",
   "logos": [
     {
       "id": "budget-thing",
@@ -126,6 +126,13 @@
       "name": "sek-free-3",
       "slug": "sek-free-3",
       "file": "logos/sek-free-3.png",
+      "tags": []
+    },
+    {
+      "id": "sek-hon",
+      "name": "sek-hon",
+      "slug": "sek-hon",
+      "file": "logos/sek-hon.png",
       "tags": []
     },
     {
