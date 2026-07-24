@@ -1,0 +1,37 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://cdn.jsdelivr.net/gh/TheJPMZ/Glyphvault@main/manifest.schema.json",
+  "title": "Glyphvault manifest",
+  "type": "object",
+  "required": ["cdn_base", "generated_at", "logos"],
+  "additionalProperties": false,
+  "properties": {
+    "cdn_base": {
+      "type": "string",
+      "description": "Base URL to prepend to each logo's file path."
+    },
+    "generated_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of last regeneration."
+    },
+    "logos": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/logo" }
+    }
+  },
+  "definitions": {
+    "logo": {
+      "type": "object",
+      "required": ["id", "name", "slug", "file", "tags"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "description": "Stable unique identifier." },
+        "name": { "type": "string", "description": "Human-readable display name." },
+        "slug": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+        "file": { "type": "string", "description": "Path relative to repo root, e.g. logos/acme-corp.svg." },
+        "tags": { "type": "array", "items": { "type": "string" } }
+      }
+    }
+  }
+}
