@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 384">
+  <defs>
+    <linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="70" y1="70" x2="314" y2="314">
+      <stop offset="0%" stop-color="#c81cc4"/>
+      <stop offset="50%" stop-color="#9333ea"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="384" height="384" rx="72" ry="72" fill="#0d0d1a"/>
+
+  <rect x="70" y="70" width="72" height="72" rx="16" fill="#22273a"/>
+  <rect x="156" y="70" width="72" height="72" rx="16" fill="#22273a"/>
+  <rect x="242" y="70" width="72" height="72" rx="16" fill="#22273a"/>
+
+  <rect x="70" y="156" width="72" height="72" rx="16" fill="#22273a"/>
+  <rect x="156" y="156" width="72" height="72" rx="16" fill="#22273a"/>
+  <rect x="242" y="156" width="72" height="72" rx="16" fill="#22273a"/>
+
+  <rect x="70" y="242" width="72" height="72" rx="16" fill="#22273a"/>
+  <rect x="156" y="242" width="72" height="72" rx="16" fill="#22273a"/>
+  <rect x="242" y="242" width="72" height="72" rx="16" fill="#22273a"/>
+
+  <rect x="70" y="70" width="72" height="72" rx="16" fill="url(#grad)"/>
+  <rect x="156" y="156" width="72" height="72" rx="16" fill="url(#grad)"/>
+  <rect x="242" y="242" width="72" height="72" rx="16" fill="url(#grad)"/>
+</svg>
