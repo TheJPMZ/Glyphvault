@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
     <!-- hanko-style seal: ink offset shadow, vermilion stamp, ink border -->
-    <rect x="24" y="24" width="88" height="88" rx="10" fill="#1c1c1a" />
-    <rect x="18" y="18" width="88" height="88" rx="10" fill="#d6402f" stroke="#1c1c1a" stroke-width="5" />
+    <rect x="24" y="24" width="88" height="88" rx="24" fill="#1c1c1a" />
+    <rect x="18" y="18" width="88" height="88" rx="24" fill="#d6402f" stroke="#1c1c1a" stroke-width="5" />
     <text
         x="62"
-        y="80"
+        y="83"
         text-anchor="middle"
         font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic UI',system-ui,sans-serif"
         font-size="60"
