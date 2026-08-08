@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 384">
+  <defs>
+    <linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="384" y2="384">
+      <stop offset="0%" stop-color="#e6249a"/>
+      <stop offset="100%" stop-color="#6b5bf0"/>
+    </linearGradient>
+    <clipPath id="moonClip">
+      <circle cx="252" cy="256" r="26"/>
+    </clipPath>
+  </defs>
+  <rect x="0" y="0" width="384" height="384" rx="192" ry="192" fill="#0d0d1a"/>
+  <circle cx="192" cy="192" r="178" fill="none" stroke="url(#grad)" stroke-width="14"/>
+  <path d="M182 108 L198 158 L248 168 L198 178 L182 228 L166 178 L116 168 L166 158 Z" fill="url(#grad)"/>
+  <g>
+    <circle cx="242" cy="256" r="26" fill="url(#grad)"/>
+    <circle cx="256" cy="248" r="26" fill="#0d0d1a"/>
+  </g>
+</svg>
