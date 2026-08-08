@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 384">
+  <defs>
+    <linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="384" y2="0">
+      <stop offset="0%" stop-color="#e6249a"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="384" height="384" rx="192" ry="192" fill="#151a2e"/>
+
+  <line x1="192" y1="192" x2="122" y2="122" stroke="url(#grad)" stroke-width="7"/>
+  <line x1="192" y1="192" x2="80" y2="150" stroke="url(#grad)" stroke-width="7"/>
+  <line x1="192" y1="192" x2="80" y2="234" stroke="url(#grad)" stroke-width="7"/>
+  <line x1="192" y1="192" x2="122" y2="262" stroke="url(#grad)" stroke-width="7"/>
+  <line x1="192" y1="192" x2="262" y2="122" stroke="url(#grad)" stroke-width="7"/>
+  <line x1="192" y1="192" x2="304" y2="150" stroke="url(#grad)" stroke-width="7"/>
+  <line x1="192" y1="192" x2="304" y2="234" stroke="url(#grad)" stroke-width="7"/>
+  <line x1="192" y1="192" x2="262" y2="262" stroke="url(#grad)" stroke-width="7"/>
+
+  <path d="M192,148 L226,168 L226,208 L192,228 L158,208 L158,168 Z"
+        fill="#151a2e" stroke="url(#grad)" stroke-width="8" stroke-linejoin="round"/>
+
+  <circle cx="122" cy="122" r="13" fill="#151a2e" stroke="url(#grad)" stroke-width="7"/>
+  <circle cx="80" cy="150" r="13" fill="#151a2e" stroke="url(#grad)" stroke-width="7"/>
+  <circle cx="80" cy="234" r="13" fill="#151a2e" stroke="url(#grad)" stroke-width="7"/>
+  <circle cx="122" cy="262" r="13" fill="#151a2e" stroke="url(#grad)" stroke-width="7"/>
+  <circle cx="262" cy="122" r="13" fill="#151a2e" stroke="url(#grad)" stroke-width="7"/>
+  <circle cx="304" cy="150" r="13" fill="#151a2e" stroke="url(#grad)" stroke-width="7"/>
+  <circle cx="304" cy="234" r="13" fill="#151a2e" stroke="url(#grad)" stroke-width="7"/>
+  <circle cx="262" cy="262" r="13" fill="#151a2e" stroke="url(#grad)" stroke-width="7"/>
+</svg>
