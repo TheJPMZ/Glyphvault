@@ -8,7 +8,7 @@ const ROOT = path.resolve(__dirname, "..");
 const LOGOS_DIR = path.join(ROOT, "logos");
 const MANIFEST_PATH = path.join(ROOT, "manifest.json");
 const CDN_BASE = "https://cdn.jsdelivr.net/gh/TheJPMZ/Glyphvault@main/";
-const VALID_EXT = new Set([".svg", ".png", ".webp"]);
+const VALID_EXT = new Set([".svg", ".png", ".webp", ".jpg", ".jpeg", ".ico"]);
 
 function loadExisting() {
   if (!fs.existsSync(MANIFEST_PATH)) return { logos: [] };
