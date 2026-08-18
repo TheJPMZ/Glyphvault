@@ -1,12 +1,19 @@
 {
   "cdn_base": "https://cdn.jsdelivr.net/gh/TheJPMZ/Glyphvault@main/",
-  "generated_at": "2026-07-24T02:01:05.514Z",
+  "generated_at": "2026-08-18T18:44:09.482Z",
   "logos": [
     {
       "id": "budget-thing",
       "name": "budget-thing",
       "slug": "budget-thing",
       "file": "logos/budget-thing.svg",
+      "tags": []
+    },
+    {
+      "id": "chobo",
+      "name": "chobo",
+      "slug": "chobo",
+      "file": "logos/chobo.svg",
       "tags": []
     },
     {
@@ -24,6 +31,20 @@
       "tags": []
     },
     {
+      "id": "docgen",
+      "name": "docgen",
+      "slug": "docgen",
+      "file": "logos/docgen.svg",
+      "tags": []
+    },
+    {
+      "id": "epug",
+      "name": "epug",
+      "slug": "epug",
+      "file": "logos/epug.svg",
+      "tags": []
+    },
+    {
       "id": "fitbox",
       "name": "fitbox",
       "slug": "fitbox",
@@ -34,7 +55,7 @@
       "id": "glyphvault",
       "name": "glyphvault",
       "slug": "glyphvault",
-      "file": "logos/glyphvault.png",
+      "file": "logos/glyphvault.svg",
       "tags": []
     },
     {
@@ -73,6 +94,13 @@
       "tags": []
     },
     {
+      "id": "mini-no-nihongo",
+      "name": "mini-no-nihongo",
+      "slug": "mini-no-nihongo",
+      "file": "logos/mini-no-nihongo.svg",
+      "tags": []
+    },
+    {
       "id": "music-master",
       "name": "music-master",
       "slug": "music-master",
@@ -94,6 +122,13 @@
       "tags": []
     },
     {
+      "id": "qualisearch",
+      "name": "qualisearch",
+      "slug": "qualisearch",
+      "file": "logos/qualisearch.svg",
+      "tags": []
+    },
+    {
       "id": "scribe",
       "name": "scribe",
       "slug": "scribe",
@@ -104,21 +139,14 @@
       "id": "sek-auth-sdk",
       "name": "sek-auth-sdk",
       "slug": "sek-auth-sdk",
-      "file": "logos/sek-auth-sdk.png",
+      "file": "logos/sek-auth-sdk.svg",
       "tags": []
     },
     {
       "id": "sek-auth",
       "name": "sek-auth",
       "slug": "sek-auth",
-      "file": "logos/sek-auth.png",
-      "tags": []
-    },
-    {
-      "id": "sek-free-1",
-      "name": "sek-free-1",
-      "slug": "sek-free-1",
-      "file": "logos/sek-free-1.png",
+      "file": "logos/sek-auth.svg",
       "tags": []
     },
     {
@@ -136,6 +164,13 @@
       "tags": []
     },
     {
+      "id": "sek-free",
+      "name": "sek-free",
+      "slug": "sek-free",
+      "file": "logos/sek-free.png",
+      "tags": []
+    },
+    {
       "id": "sek-hon",
       "name": "sek-hon",
       "slug": "sek-hon",
@@ -146,7 +181,21 @@
       "id": "sek-hub",
       "name": "sek-hub",
       "slug": "sek-hub",
-      "file": "logos/sek-hub.png",
+      "file": "logos/sek-hub.svg",
+      "tags": []
+    },
+    {
+      "id": "sek-network",
+      "name": "sek-network",
+      "slug": "sek-network",
+      "file": "logos/sek-network.svg",
+      "tags": []
+    },
+    {
+      "id": "sek-press",
+      "name": "sek-press",
+      "slug": "sek-press",
+      "file": "logos/sek-press.png",
       "tags": []
     },
     {
@@ -161,6 +210,13 @@
       "name": "sociably",
       "slug": "sociably",
       "file": "logos/sociably.png",
+      "tags": []
+    },
+    {
+      "id": "soken",
+      "name": "soken",
+      "slug": "soken",
+      "file": "logos/soken.svg",
       "tags": []
     },
     {
