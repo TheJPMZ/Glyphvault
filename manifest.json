@@ -1,12 +1,12 @@
 {
   "cdn_base": "https://cdn.jsdelivr.net/gh/TheJPMZ/Glyphvault@main/",
-  "generated_at": "2026-08-18T19:15:47.326Z",
+  "generated_at": "2026-09-09T17:54:54.988Z",
   "logos": [
     {
       "id": "abogados-page",
       "name": "abogados-page",
       "slug": "abogados-page",
-      "file": "logos/abogados-page.ico",
+      "file": "logos/abogados-page.svg",
       "tags": []
     },
     {
