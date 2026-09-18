@@ -1,6 +1,6 @@
 {
   "cdn_base": "https://cdn.jsdelivr.net/gh/TheJPMZ/Glyphvault@main/",
-  "generated_at": "2026-09-09T17:54:54.988Z",
+  "generated_at": "2026-09-18T20:51:53.824Z",
   "logos": [
     {
       "id": "abogados-page",
@@ -203,6 +203,13 @@
       "name": "sek-network",
       "slug": "sek-network",
       "file": "logos/sek-network.svg",
+      "tags": []
+    },
+    {
+      "id": "sek-peaks",
+      "name": "sek-peaks",
+      "slug": "sek-peaks",
+      "file": "logos/sek-peaks.svg",
       "tags": []
     },
     {
