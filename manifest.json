@@ -1,6 +1,6 @@
 {
   "cdn_base": "https://cdn.jsdelivr.net/gh/TheJPMZ/Glyphvault@main/",
-  "generated_at": "2026-09-26T20:52:44.776Z",
+  "generated_at": "2026-10-18T23:31:51.905Z",
   "logos": [
     {
       "id": "abogados-page-old",
@@ -259,6 +259,20 @@
       "name": "strawberry-frog",
       "slug": "strawberry-frog",
       "file": "logos/strawberry-frog.png",
+      "tags": []
+    },
+    {
+      "id": "supabase-sek",
+      "name": "supabase-sek",
+      "slug": "supabase-sek",
+      "file": "logos/supabase-sek.svg",
+      "tags": []
+    },
+    {
+      "id": "tesis-con-ia",
+      "name": "tesis-con-ia",
+      "slug": "tesis-con-ia",
+      "file": "logos/tesis-con-ia.svg",
       "tags": []
     },
     {
