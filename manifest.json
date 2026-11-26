@@ -1,6 +1,6 @@
 {
   "cdn_base": "https://cdn.jsdelivr.net/gh/TheJPMZ/Glyphvault@main/",
-  "generated_at": "2026-10-18T23:31:51.905Z",
+  "generated_at": "2026-11-26T17:36:36.918Z",
   "logos": [
     {
       "id": "abogados-page-old",
@@ -77,6 +77,13 @@
       "name": "glyphvault",
       "slug": "glyphvault",
       "file": "logos/glyphvault.svg",
+      "tags": []
+    },
+    {
+      "id": "gridbye",
+      "name": "gridbye",
+      "slug": "gridbye",
+      "file": "logos/gridbye.png",
       "tags": []
     },
     {
