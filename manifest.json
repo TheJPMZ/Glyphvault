@@ -1,6 +1,6 @@
 {
   "cdn_base": "https://cdn.jsdelivr.net/gh/TheJPMZ/Glyphvault@main/",
-  "generated_at": "2026-11-26T17:42:42.311Z",
+  "generated_at": "2026-11-26T18:58:09.086Z",
   "logos": [
     {
       "id": "abogados-page-old",
@@ -14,6 +14,13 @@
       "name": "abogados-page",
       "slug": "abogados-page",
       "file": "logos/abogados-page.svg",
+      "tags": []
+    },
+    {
+      "id": "astro-template",
+      "name": "astro-template",
+      "slug": "astro-template",
+      "file": "logos/astro-template.svg",
       "tags": []
     },
     {
@@ -98,6 +105,13 @@
       "name": "jp",
       "slug": "jp",
       "file": "logos/jp.png",
+      "tags": []
+    },
+    {
+      "id": "jpwriter",
+      "name": "jpwriter",
+      "slug": "jpwriter",
+      "file": "logos/jpwriter.svg",
       "tags": []
     },
     {
@@ -294,6 +308,13 @@
       "name": "the-anvil",
       "slug": "the-anvil",
       "file": "logos/the-anvil.svg",
+      "tags": []
+    },
+    {
+      "id": "the-boulder",
+      "name": "the-boulder",
+      "slug": "the-boulder",
+      "file": "logos/the-boulder.png",
       "tags": []
     },
     {
